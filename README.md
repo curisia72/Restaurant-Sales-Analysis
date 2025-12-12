@@ -1,4 +1,4 @@
-# Restaurant Sales Analysis — End-to-End Data Project
+# Restaurant Sales Analysis
 
 This project analyzes one year of sales data from a small fast-food restaurant to uncover trends in customer behavior, revenue patterns, and operational performance.  
 The goal was to answer real business questions such as:
