@@ -28,13 +28,6 @@ This project includes **data cleaning**, **exploratory analysis**, **Tableau das
 - **Male customers spend slightly more per transaction** than female customers.
 
 ---
-
-## 📈 Example Visualization
-
-# Revenue by Day of the Week & Month
-<img src="Screenshot%202025-12-12%20000710.png" width="500">
----
-
 ## Data Cleaning Summary
 
 Key preprocessing steps:
@@ -46,6 +39,12 @@ Key preprocessing steps:
 - Created a **Profit** column:  
   `profit = 0.7 * transaction_amount` (assuming 30% operational cost)
 
+---
+
+## Example Visualization
+
+# Revenue by Day of the Week & Month
+<img src="Screenshot%202025-12-12%20000710.png" width="500">
 ---
 
 ## Example SQL Queries
