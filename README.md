@@ -31,9 +31,9 @@ This project includes **data cleaning**, **exploratory analysis**, **Tableau das
 
 ## 📈 Example Visualization
 
-> **Revenue by Day of the Week & Month **  
+# Revenue by Day of the Week & Month
 
-![Example Tableau Visualization](insert-image-file-here)
+![Data visualization](Screenshot 2025-12-12 000710.png)
 
 ---
 
