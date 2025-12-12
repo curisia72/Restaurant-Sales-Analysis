@@ -33,7 +33,7 @@ This project includes **data cleaning**, **exploratory analysis**, **Tableau das
 
 # Revenue by Day of the Week & Month
 
-![Data visualization](Screenshot 2025-12-12 000710.png)
+![Data visualization]("Screenshot 2025-12-12 000710.png")
 
 ---
 
